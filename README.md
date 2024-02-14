@@ -1,4 +1,5 @@
-I am testing my automation 
+I am testing my automation
+I am testing the poll scm
 
 Addressbook Tutorial
 ====================
