@@ -1,6 +1,3 @@
-I am testing my automation
-I am testing this file
-
 Addressbook Tutorial
 ====================
 
