@@ -1,5 +1,3 @@
-hello testing
-
 Addressbook Tutorial
 ====================
 
